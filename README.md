@@ -12,5 +12,6 @@ Lastly I have my activity widget which will have charts for my steps , standing 
 ![image](https://user-images.githubusercontent.com/98298864/202091849-61f4ef03-4444-4dae-a7f7-dde2fd72a518.png)
 ## For a B
 Here in my final implementation in processing my mirror works first of all by incorperating my webcam to show myself. From there I have my different widgets. Starting from the top I have my weather widget which utilizies data from the json file that I used which I got from api.openweathermap.org. Then I have the current time and date which I got from the built in functions hour(), minute(), day(), month(), and year();. Then for my message and other feed I used a csv file that I created and grabbed data from there. Next I have my light button that will change the tint of the webcam when pressed. Then I have my calander which will display all of my days events such as class and work if I have it that day which is data drawn from my csv aswell. Then lastlty I have my current weight, last weeks average weight and my goal weight which is also from my csv file. 
+
 ![image](https://user-images.githubusercontent.com/98298864/202092626-d4fde190-071f-45ac-9d0c-273c74042f17.png)
 
